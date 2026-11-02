@@ -5,7 +5,7 @@ export default {
     moduleNameMapper: {
         '^@$': '<rootDir>/src',
         '^@/(.*)$': '<rootDir>/src/$1',
-        '^@unikue/ts-multi-map$': '<rootDir>/src'
+        '^@jiovan-labs/ts-multi-map$': '<rootDir>/src'
     },
     transform: {
         '^.+\\.tsx?$': ['ts-jest', {

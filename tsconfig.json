@@ -21,10 +21,10 @@
             "@/*": [
                 "./src/*"
             ],
-            "@unikue/ts-multi-map": [
+            "@jiovan-labs/ts-multi-map": [
                 "./src"
             ],
-            "@unikue/ts-multi-map/*": [
+            "@jiovan-labs/ts-multi-map/*": [
                 "./src/*"
             ]
         }
