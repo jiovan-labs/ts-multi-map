@@ -1,6 +1,6 @@
 {
     "name": "@jiovan-labs/ts-multi-map",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "title": "Typescript Multiple Map",
     "description": "Multiple key/value map & range map for typescript",
     "homepage": "https://jiovan-labs.github.io/ts-multi-map",
